@@ -1,5 +1,7 @@
 # interactiveSlimeMold
 
+Copy the sketch.js file and paste into the editor playground at https://editor.p5js.org or open the index.html file for the experience in a web browser.
+
 This p5.js script is for creating a simulation of a group of autonomous agents moving around a canvas. The movement of these
 agents is influenced by the user's mouse actions and they interact with their environment, which is represented by the pixel
 array of the canvas. Here’s the code broken down in detail:
